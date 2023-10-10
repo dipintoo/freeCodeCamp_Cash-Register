@@ -1,6 +1,7 @@
 # [5/5] Cash Register
 
-**SELAMAT!** kamu sudah berhasil menyelesaikan project keempat [Telepon Number Validator](https://github.com/dipintoo/freeCodeCamp_Telephone-Number-Validator) dan akhirnya sekarang perjalanan kamu telah sampai ke project terakhir sehingga selangkah lagi kamu akan meraih sertifikat [JavaScript Algorithm and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) dari freeCodeCamp!
+**SELAMAT!** kamu sudah berhasil menyelesaikan project keempat [Telepon Number Validator](https://github.com/dipintoo/freeCodeCamp_Telephone-Number-Validator) dan akhirnya sekarang perjalanan kamu telah sampai ke project terakhir sehingga selangkah lagi kamu akan meraih sertifikat [JavaScript Algorithm and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) dari freeCodeCamp!  
+
 
 ## Tentang Fungsi Kasir
 
@@ -13,10 +14,10 @@ Berikut beberapa skenario yang mungkin terjadi:
 - Jika jumlah uang tunai dalam laci kasir sama dengan kembalian yang seharusnya diberikan, maka fungsi akan menghasilkan output `{status: "CLOSED", change: [...]}` dengan jumlah uang tunai dalam laci sebagai kembalian.
 
 - Jika jumlah uang tunai dalam laci kasir lebih dari kembalian yang seharusnya diberikan, maka fungsi akan menghasilkan output `{status: "OPEN", change: [...]}` dengan kembalian yang terdiri dari uang kertas dan koin, diurutkan dari yang tertinggi ke yang terendah.
+  
 
 ## Panduan Pecahan dan Nominal Uang Dollar
 
-<p align="center">
   | Currency Unit    | Amount       |
   | ---------------- | ------------ |
   | PENNY            | $0.01        |
@@ -27,8 +28,8 @@ Berikut beberapa skenario yang mungkin terjadi:
   | FIVE             | $5           |
   | TEN              | $10          |
   | TWENTY           | $20          |
-  | ONE HUNDRED      | $100         |
-</p>
+  | ONE HUNDRED      | $100         |  
+  
 
 ## Contoh Penggunaan
 
@@ -38,13 +39,15 @@ console.log(
 
 akan menghasilkan output:
 
-`{status: "OPEN", change: [["QUARTER", 0.5]]}`
+`{status: "OPEN", change: [["QUARTER", 0.5]]}`  
+
 
 ## Coding dan Testing
 
 Kamu bisa ngoding dan melakukan testing langsung di [Cash Register project build](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register).  
 
 Semangat dan selamat mencoba! 🚀📜  
+
 
 ## Sertifikat
 
