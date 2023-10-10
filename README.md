@@ -23,4 +23,4 @@ kamu bisa langsung klaim sertifikatnya ke freeCodeCamp. Jika berhasil, kamu akan
 
 **Selamat ya kamu 🏆🏅**
 
-![Sertifikat kamu](https://github.com/dipintoo/freeCodeCamp_Metadata/blob/main/public/Sertifikat.png)
+![Sertifikat kamu](https://github.com/dipintoo/freeCodeCamp_Cash-Register/blob/main/Sertifikat.png)
