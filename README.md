@@ -2,6 +2,13 @@
 
 **SELAMAT!** kamu sudah berhasil menyelesaikan project keempat [Telepon Number Validator](https://github.com/dipintoo/freeCodeCamp_Telephone-Number-Validator) dan akhirnya sekarang perjalanan kamu telah sampai ke project terakhir sehingga selangkah lagi kamu akan meraih sertifikat [JavaScript Algorithm and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) dari freeCodeCamp!
 
+## Coding dan Testing
+
+Kamu bisa ngoding dan melakukan testing langsung di [Cash Register project build](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register).  
+
+
+Semangat dan selamat mencoba! 🚀📜  
+
 ## Sertifikat
 
 Setelah berhasil menyelesaikan 5 project sertifikasi JavaScript Algorithm and Data Structures, diantaranya:
