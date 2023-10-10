@@ -16,17 +16,19 @@ Berikut beberapa skenario yang mungkin terjadi:
 
 ## Panduan Pecahan dan Nominal Uang Dollar
 
-| Currency Unit    | Amount       |
-| ---------------- | ------------ |
-| PENNY            | $0.01        |
-| NICKEL           | $0.05        |
-| DIME             | $0.1         |
-| QUARTER          | $0.25        |
-| ONE              | $1           |
-| FIVE             | $5           |
-| TEN              | $10          |
-| TWENTY           | $20          |
-| ONE HUNDRED      | $100         |
+<p align="center">
+  | Currency Unit    | Amount       |
+  | ---------------- | ------------ |
+  | PENNY            | $0.01        |
+  | NICKEL           | $0.05        |
+  | DIME             | $0.1         |
+  | QUARTER          | $0.25        |
+  | ONE              | $1           |
+  | FIVE             | $5           |
+  | TEN              | $10          |
+  | TWENTY           | $20          |
+  | ONE HUNDRED      | $100         |
+</p>
 
 ## Contoh Penggunaan
 
